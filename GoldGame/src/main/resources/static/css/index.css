@@ -1,0 +1,65 @@
+
+
+.container{
+    margin: 0px auto;
+    margin-left: 50px;
+    text-align: center;
+    width: 1000px;
+    min-height: 500px;
+    border: solid 3px;
+    padding-top: 30px;
+    display: inline-block;
+    
+
+}
+
+.form-group .row{
+    margin-top: 20px!important;
+    width: 300px!important;
+}
+
+h2{
+    margin: 0px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+form{
+    padding: 25px;
+    height: 180px;
+    width: 180px;
+    text-align: center;
+    border: solid 3px;
+    margin-bottom: 20px;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+#score{
+    width: 600px!important;
+}
+#your_gold{
+    width: 100px!important;
+}
+
+.group_form{
+    width: 930px;
+    height: 210px;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.activities_name{
+    margin-left: 5px!important;
+    font-size: normal;
+}
+
+.not_casino{
+    color: rgb(166, 197, 166);
+}
+.loss{
+    color: red;
+}
+.win{
+    color: green;
+}
